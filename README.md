@@ -17,3 +17,7 @@ Accessibility is key—audio card reading is available for users with reading di
 I need 12 people to install it and play with it for two weeks so I can unlock public release. The app is free, with no ads—just something I’ve put a ton of work into that I’d love for you to check out.
 
 Would be huge if you could help out. Appreciate it!
+
+## Discord
+- Join the community or just stop by to say hi, whatever your reason you can join the Discord channel here:
+https://discord.gg/Gw6FvZcUcA
