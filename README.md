@@ -8,15 +8,8 @@ The app provides technique cards in easy-to-understand decks, with each deck foc
 Accessibility is key—audio card reading is available for users with reading disabilities or those who prefer an audio format.
 
 
-## Closed Beta testing is now live on Google Play: ##
-
-- To get in, first, you need to join this Google Group https://groups.google.com/g/hema-codex (Your Google email needs to match the one you use for the Android Play Store, or it won’t show up.)
-
-- Once that’s done, you can download the app here: https://play.google.com/store/apps/details?id=com.codextenebris.HEMACodex
-
-I need 12 people to install it and play with it for two weeks so I can unlock public release. The app is free, with no ads—just something I’ve put a ton of work into that I’d love for you to check out.
-
-Would be huge if you could help out. Appreciate it!
+## App is now live: ##
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.codextenebris.HEMACodex)
 
 ## Discord
 - Join the community or just stop by to say hi, whatever your reason you can join the Discord channel here:
